@@ -11,3 +11,4 @@ click on the link, and allow temporary access-
 
 after that refresh your website- it will be responsive :)
 
+![image](https://user-images.githubusercontent.com/78360131/154837809-8e3aeade-e5e9-4afd-bdec-ed599a6ee93f.png)
